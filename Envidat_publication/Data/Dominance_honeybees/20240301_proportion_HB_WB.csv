@@ -1,0 +1,44 @@
+Article_ID,DOI,Authors,Year,Duration sampling (years),Start_sampling,End_sampling,Continent,Country,N. cities,City,Sampling type,Sampling methodology,Number sites,Abundance honeybees,Abundance wild bees,Total bees,Proportion honeybees,Proportion wildbees
+A1,https://doi.org/10.1007/s11252-023-01440-x,"Rossi Rotondi et al.,",2023,1,2019,2019,America,Argentina,1,Cordoba,Active,Hand-netting,13,196,193,389,0.503856041,0.496143959
+A3,https://doi.org/10.7717/peerj.14699,MacIannis et al.,2023,2,2012,2013,America,Canada,1,Montreal,Passive,Pan traps,15,2291,3926,6217,0.36850571,0.63149429
+A202,https://doi.org/10.1002/eap.2727,"Casanelles-Abella et al.,",2023,1,2015,2015,Europe,Switzerland,1,Zurich,Active,Hand-netting,23,577,3248,3825,0.150849673,0.849150327
+A206.1,10.1038/s41559-018-0769-y,"Baldock et al., ",2019,2,2012,2013,Europe,UK,1,Bristol,Active,Hand-netting,90,162,539,701,0.231098431,0.768901569
+A206.2,10.1038/s41559-018-0769-y,"Baldock et al., ",2019,2,2012,2013,Europe,UK,1,Leeds,Active,Hand-netting,90,16,226,242,0.066115702,0.933884298
+A206.3,10.1038/s41559-018-0769-y,"Baldock et al., ",2019,2,2012,2013,Europe,UK,1,Edinburgh,Active,Hand-netting,90,84,433,517,0.162475822,0.837524178
+A206.4,10.1038/s41559-018-0769-y,"Baldock et al., ",2019,2,2012,2013,Europe,UK,1,Reading,Active,Hand-netting,90,116,379,495,0.234343434,0.765656566
+A185,10.1007/s10841-011-9419-2,Banaszak-Cibicka & Zmihorski,2012,3,2006,2008,Europe,Poland,1,Poznan,Passive,Pan traps,8,136,2359,2495,0.054509018,0.945490982
+A207,https://doi.org/10.1007/s11252-020-00972-w,Banaszak-Cibicka & Zmihorski,2020,3,2014,2016,Europe,Poland,1,Poznan,Active,Hand-netting,12,910,4120,5030,0.180914513,0.819085487
+A203,https://doi.org/10.1007/s00442-021-04862-6,"Renner et al., ",2021,3,2015,2017,Europe,Germany,1,Munich,Active,Hand-netting,1,9328,6460,15788,0.590828477,0.409171523
+A38,10.1093/biolinnean/blab024,"KS Prendergast, KW Dixon…",2021,2,2019,2020,Oceania,Australia,1,Perth,Active,Hand-netting,14,55324,27644,82968,0.666811301,0.333188699
+A205,https://doi.org/10.7717/peerj.2729,"Fisher et al.,",2016,1,2012,2012,Europe,Germany,1,Berlin,Passive,Pan traps,30,430,1276,1706,0.252051583,0.747948417
+A204,https://doi.org/10.1890/13-0705.1,"S Braaker et al.,",2014,1,2012,2012,Europe,Switzerland,1,Zurich,Active,Interception trap,80,5416,8571,13987,0.387216701,0.612783299
+A208,https://doi.org/10.1016/j.landurbplan.2021.104137,"Casanelles-Abella et al.,",2021,1,2014,2014,Europe,Switzerland,1,Zurich,Passive,Pan traps,85,9867,11902,21769,0.453259222,0.546740778
+A2,https://doi.org/10.1016/j.landurbplan.2023.104689,"A Rajbhandari, K Matteson, E Katz, G LeBuhn…",2023,4,2007,2010,America,USA,1,New York,Active,Observation,,743,3168,3911,0.189976988,0.810023012
+A4,https://doi.org/10.1371/journal.pone.0281468,"M Anderson, F Crubaugh, C Greenslit, E Hill, H Kroth…",2023,2,2017,2018,America,USA,1,Fox cities,Passive,Pan traps,16,43,1531,1574,0.027318933,0.972681067
+A22,10.1007/s10841-022-00402-6,"AJ Janvier, MD Ulyshen, CA Braman, C Traylor…",2022,2,2019,2020,America,USA,1,Athens,Passive,Pan traps,34,86,4852,4938,0.017415958,0.982584042
+A10,10.1111/aec.13299,"KP Tavares Brancher, LV Graf, G Heringer…",2023,2,2020,2021,America,Brazil,5,bra_cities,Active,Hand-netting,21,928,3351,4279,0.216873101,0.783126899
+A12,https://doi.org/10.1093/jue/juad006,"AC Ayers, SM Rehan",2023,1,2021,2021,America,Canada,1,Toronto,Both,"Hand-netting, pan traps",29,705,4772,5477,0.128720102,0.871279898
+A13,https://doi.org/10.1002/eap.2759,"J Felderhoff, AK Gathof, S Buchholz…",2023,1,2020,2020,Europe,Germany,1,Berlin,Both,"Hand-netting, pan traps",18,52,937,989,0.052578362,0.947421638
+A56,https://doi.org/10.1038/s41598-020-78736-x,"P Theodorou, SC Herbst, B Kahnt…",2020,1,2017,2017,Europe,Germany,1,Halle,Active,Hand-netting,8,291,845,1136,0.256161972,0.743838028
+A57,10.1007/s11252-020-00956-w,"KR Birdshire, AL Carper, CE Briles",2020,1,2017,2017,America,USA,1,Denver,both,"Hand-netting, pan traps",12,32,1475,1507,0.02123424,0.97876576
+A76,10.1098/rsbl.2019.0574,"G Fitch, CJ Wilson, P Glaum, C Vaidya…",2019,2,2014,2017,America,USA,1,Detroit,Passive,Pan traps,26,40,1696,1736,0.023041475,0.976958525
+A79,https://doi.org/10.1371/journal.pone.0225852,"CJ Wilson, MA Jamieson",2019,1,2017,2017,America,USA,1,Michigan area,both,"Hand-netting, pan traps",15,335,1326,1661,0.201685731,0.798314269
+A83,10.1002/eap.1869,"KM Ballare, JL Neff, R Ruppel, S Jha",2019,,,,America,USA,2,"Dallas, Austin",Passive,Pan traps,40,68,12653,12721,0.005345492,0.994654508
+A99,https://doi.org/10.1016/j.biocon.2018.01.025,"SB Lerman, AR Contosta, J Milam, C Bang",2018,2,2013,2014,America,USA,1,Springfield,Passive,Pan traps,16,244,4343,4587,0.053193809,0.946806191
+A106,10.1017/S0007485317000153,"M Plascencia, SM Philpott",2017,1,2015,2015,America,USA,3,"Monterey, Santa Clara, and Santa Cruz",Both,"Hand-netting, pan traps",18,785,569,1354,0.58,0.42
+A113.1,https://doi.org/10.7717/peerj.3051,"É Normandin, NJ Vereecken, CM Buddle, V Fournier",2017,2,2012,2013,America,Canada,1,Montreal,Passive,Pan traps,24,416,23808,24224,0.017173052,0.982826948
+A113.2,https://doi.org/10.7717/peerj.3051,"É Normandin, NJ Vereecken, CM Buddle, V Fournier",2017,2,2012,2013,America,Canada,1,Quebec,Passive,Pan traps,22,95,7918,8013,0.011855734,0.988144266
+A125,https://doi.org/10.1093/ee/nvw025,"RD Quistberg, P Bichier…",2016,1,2013,2013,America,USA,3,"Monterey, Santa Clara, and Santa Cruz",Both,"Hand-netting, pan traps",19,888,1678,2566,0.346,0.654
+A141,10.1080/00379271.2016.1146632,"B Geslin, V Le Féon, M Kuhlmann…",2015,1,2012,2012,Oceania,Australia,1,Melbourne,Both,"Hand-netting, pan traps",39,91,645,736,0.123641304,0.876358696
+A161,10.1007/s11252-014-0349-0,"GL Pardee, SM Philpott",2014,1,2010,2010,America,USA,1,Ohio,Both,"Hand-netting, pan traps",16,75,564,639,0.117370892,0.882629108
+A164,10.1007/s10531-014-0752-0,"DM Lowenstein, KC Matteson, I Xiao, AM Silva…",2014,1,2011,2011,America,USA,1,Chicago,Active,Hand-netting,25,68,420,488,0.139344262,0.860655738
+A184,10.1007/s11252-011-0202-7,"EI Hennig, J Ghazoul",2012,1,2008,2008,Europe,Switzerland,1,Zurich,Active,Observation,89,1086,1776,2862,0.379454927,0.620545073
+A186,https://doi.org/10.1371/journal.pone.0023459,"AJ Bates, JP Sadler, AJ Fairbrass, SJ Falk, JD Hale…",2011,1,2010,2010,America,USA,1,Birgminham,Passive,Pan traps,22,64,1228,1292,0.05,0.95
+A188,https://doi.org/10.1016/j.landurbplan.2011.07.004,"R Tonietto, J Fant, J Ascher, K Ellis, D Larkin",2011,1,2008,2008,America,USA,1,Chicago,Active,Observation,18,6,671,677,0.008862629,0.991137371
+A196,10.1007/s11252-010-0122-y,"KC Matteson, GA Langellotto",2010,1,2008,2008,America,USA,1,New York,Both,"Hand-netting, pan traps",19,30,1115,1145,0.026200873,0.973799127
+A209,https://doi.org/10.1111/1365-2664.13270,"Guenat, et al.,",2018,1,2016,2016,Africa,Ghana,1,Sunyani,Passive,Pan traps,84,3,92,95,0.031578947,0.968421053
+A212,https://doi.org/10.1007/s10841-018-0068-6,"Choatte et al.,",2018,1,2015,2016,America,USA,1,Meadville,Passive,"vane traps, pan traps",17,41,1562,1603,0.025577043,0.974422957
+A213,https://doi.org/10.1007/s11252-017-0726-6,"Kratschmer et al., ",2018,1,2014,2014,Europe,Austria,1,Viena,Active,Hand-netting,9,1470,992,2462,0.597075548,0.402924452
+A217,https://doi.org/10.1111/1365-2664.13085,"Simao et al.,",2018,2,2016,2017,America,USA,1,Ann Arbor,Active,Hand-netting,16,1,341,342,0.002923977,0.997076023
+A218,https://doi.org/10.1111/1365-2664.13773,"Turo et al.,",2020,2,2015,2016,America,USA,1,Cleveland,Passive,Pan traps,56,1355,900,2255,0.600886918,0.399113082
+A221,https://doi.org/10.1007/s11252-023-01351-x,ZANINOTTO et al.,2023,2,2019,2020,Europe,France,1,Paris,Both,"Hand-netting, pan traps",12,1168,3142,4310,0.27099768,0.72900232

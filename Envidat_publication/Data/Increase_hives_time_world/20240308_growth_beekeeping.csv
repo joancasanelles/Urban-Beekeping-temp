@@ -1,0 +1,100 @@
+Continent,Country,City,Year,Area,Total N. beekeepers,Total N. hives,Density,Reference
+Europe,UK,Greater London,2014,1'579,,4218,2.671310956,Marc Patterson/ Api:cultural
+Europe,UK,Greater London,2023,1'579,,7500,4.749841672,Marc Patterson/ Api:cultural
+Europe,Germany,Berlin,2006,892,440,1950,2.186098655,https://doi.org/10.1080/23251042.2015.1008383
+Europe,Germany,Berlin,2012,892,940,3490,3.912556054,https://doi.org/10.1080/23251042.2015.1008383
+Europe,Germany,Berlin,2019,892,1387,7965,8.929372197,Deutscher Imkerbund e.V. DIB
+Europe,Germany,Berlin,2023,892,1448,8682,9.733183857,Deutscher Imkerbund e.V. DIB
+Europe,France,Paris,2013,105.4,NA,300,2.84629981,Lise Roppars/ https://agriculture.gouv.fr/informations-publiques
+Europe,France,Paris,2016,105.4,NA,1088,10.32258065,Lise Roppars/ https://agriculture.gouv.fr/informations-publiques
+Europe,France,Paris,2018,105.4,NA,1583,15.01897533,Lise Roppars/ https://agriculture.gouv.fr/informations-publiques
+Europe,France,Paris,2022,105.4,NA,1558,14.78178368,Lise Roppars/ https://agriculture.gouv.fr/informations-publiques
+Europe,Eslovenia,Ljubljana,2023,755.2,350,5000,6.620762712,https://www.smb.museum/en/events/detail/beekeeping-in-ljubljana-and-berlin-visit-at-the-domaene-dahlem-2023-07-01-140000-136431/
+Europe,Germany,Hamburg,2009,755.2,444,3010,3.985699153,Deutscher Imkerbund e.V. DIB
+Europe,Germany,Hamburg,2012,755.2,541,3378,4.472987288,Deutscher Imkerbund e.V. DIB
+Europe,Germany,Hamburg,2019,755.2,1028,5597,7.41128178,Deutscher Imkerbund e.V. DIB
+Europe,Germany,Hamburg,2023,755.2,1032,5'711,7.562235169,Deutscher Imkerbund e.V. DIB
+America,USA,New York,2010,1223,NA,68,0.055600981,New York City Department of Health and Mental Hygiene
+America,USA,New York,2022,1223,NA,610,0.498773508,New York City Department of Health and Mental Hygiene
+Europe,Switzerland,Bern,2014,51.6,51,451,8.740310078,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2015,51.6,57,569,11.02713178,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2016,51.6,63,527,10.21317829,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2017,51.6,69,730,14.14728682,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2018,51.6,78,553,10.71705426,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2019,51.6,81,526,10.19379845,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2020,51.6,77,581,11.25968992,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2021,51.6,77,581,11.25968992,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2022,51.6,72,481,9.321705426,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Bern,2023,51.6,72,537,10.40697674,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2014,23.95,47,298,12.44258873,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2015,23.95,36,226,9.436325678,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2016,23.95,36,42,1.753653445,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2017,23.95,48,268,11.18997912,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2018,23.95,47,58,2.4217119,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2019,23.95,51,296,12.35908142,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2020,23.95,42,304,12.69311065,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2021,23.95,73,547,22.83924843,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2022,23.95,70,532,22.21294363,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Basel,2023,23.95,67,476,19.87473904,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2014,29.1,32,306,10.51546392,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2015,29.1,32,241,8.281786942,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2016,29.1,35,296,10.17182131,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2017,29.1,39,282,9.690721649,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2018,29.1,44,308,10.58419244,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2019,29.1,49,331,11.37457045,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2020,29.1,57,369,12.68041237,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2021,29.1,55,353,12.13058419,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2022,29.1,51,302,10.37800687,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Luzern,2023,29.1,55,302,10.37800687,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2014,41.37,11,117,2.828136331,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2015,41.37,14,135,3.263234228,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2016,41.37,45,330,7.976794779,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2017,41.37,42,279,6.744017404,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2018,41.37,45,468,11.31254532,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2019,41.37,47,312,7.541696882,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2020,41.37,45,274,6.623156877,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2021,41.37,43,266,6.429780034,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2022,41.37,42,263,6.357263718,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Lausanne,2023,41.37,46,271,6.550640561,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2014,87.88,93,898,10.21847975,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2015,87.88,99,904,10.28675467,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2016,87.88,111,983,11.18570778,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2017,87.88,127,1052,11.97086937,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2018,87.88,140,1144,13.01775148,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2019,87.88,153,1178,13.40464269,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2020,87.88,156,1270,14.45152481,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2021,87.88,171,1457,16.57942649,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2022,87.88,168,1517,17.26217569,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,ZŸrich,2023,87.88,155,1233,14.03049613,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2014,68.07,55,645,9.475539885,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2015,68.07,62,679,9.975025709,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2016,68.07,65,692,10.16600558,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2017,68.07,66,636,9.34332305,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2018,68.07,69,647,9.504921404,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2019,68.07,80,707,10.38636698,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2020,68.07,80,656,9.63713824,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2021,68.07,89,795,11.67915381,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2022,68.07,85,789,11.59100926,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Wintherthur,2023,68.07,82,734,10.78301748,Bundesamt fur landwirtschaft BLW
+America,Canada,Montreal,2017,431.5,,167,0.387022016,"Young et al., 2023"
+America,Canada,Montreal,2018,431.5,,415,0.961761298,"Young et al., 2023"
+America,Canada,Montreal,2019,431.5,,458,1.061413673,"Young et al., 2023"
+America,Canada,Montreal,2020,431.5,,378,0.876013905,"Young et al., 2023"
+America,Canada,Montreal,2021,431.5,,394,0.913093859,"Young et al., 2023"
+America,Canada,Montreal,2022,431.5,,391,0.906141367,"Young et al., 2023"
+America,Canada,Toronto,2017,630,,54,0.085714286,"Young et al., 2023"
+America,Canada,Toronto,2018,630,,241,0.382539683,"Young et al., 2023"
+America,Canada,Toronto,2019,630,,272,0.431746032,"Young et al., 2023"
+America,Canada,Toronto,2020,630,,266,0.422222222,"Young et al., 2023"
+America,Canada,Toronto,2021,630,,296,0.46984127,"Young et al., 2023"
+America,Canada,Toronto,2022,630,,341,0.541269841,"Young et al., 2023"
+Europe,Switzerland,Geneva,2014,16,19,155,9.6875,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2015,16,35,277,17.3125,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2016,16,37,394,24.625,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2017,16,41,341,21.3125,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2018,16,44,371,23.1875,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2019,16,43,357,22.3125,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2020,16,47,354,22.125,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2021,16,53,411,25.6875,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2022,16,47,413,25.8125,Bundesamt fur landwirtschaft BLW
+Europe,Switzerland,Geneva,2023,16,49,468,29.25,Bundesamt fur landwirtschaft BLW
